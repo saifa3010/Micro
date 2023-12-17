@@ -1,5 +1,5 @@
 
-<?php
+<?php saif
     require('configuration/config.php');
     if(isset($_GET['id']))
     {
